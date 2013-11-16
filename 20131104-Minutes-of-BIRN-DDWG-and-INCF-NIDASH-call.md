@@ -54,13 +54,13 @@ Venue:
 <tbody>
 <tr class="odd">
 <td align="left"><h1>1.</h1></td>
-<td align="left"><h1>Minutes of meeting held on 28th October 2013</h1>
+<td align="left"><p>Minutes of meeting held on 28th October 2013</p>
 <p>Approved as a true record.</p></td>
 <td align="left"><h1>ACTION</h1></td>
 </tr>
 <tr class="even">
 <td align="left"><h1>2.</h1></td>
-<td align="left"><h1>OoEW nidm example (nidm_ooevvProv.zip) <a href="https://wiki.birncommunity.org/display/NEWBIRNCC/Knowledge+Engineering+from+Experimental+Design+%28%27KEfED%27%29">Knowledge Engineering from Experimental Design ('KEfED')</a> (GB)</h1>
+<td align="left"><p>OoEW nidm example (nidm_ooevvProv.zip) <a href="https://wiki.birncommunity.org/display/NEWBIRNCC/Knowledge+Engineering+from+Experimental+Design+%28%27KEfED%27%29">Knowledge Engineering from Experimental Design ('KEfED')</a> (GB)</p>
 <p>Useful to trace back the substructure of a given object given the protocol. This is a complementary modelling to the one we are building using PROV. Provide an ontological representation of each variable and scale.</p>
 <p></p>
 <p>GB will attend the San Diego meeting to further discuss these aspects.</p></td>

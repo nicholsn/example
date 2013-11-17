@@ -1,5 +1,5 @@
-Minutes of BIRN DDWG and INCF NIDASH call
-=========================================
+Minutes of BIRN DDWG and INCF NIDASH call New
+=============================================
 
 Monday 4th November 2013; 8-9am PDT, 11am-noon EDT, 4-5pm BST
 

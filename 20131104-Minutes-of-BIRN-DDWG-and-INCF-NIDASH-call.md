@@ -132,6 +132,4 @@ Venue:
 </tbody>
 </table>
 
-Some changes
 
-a few more changes

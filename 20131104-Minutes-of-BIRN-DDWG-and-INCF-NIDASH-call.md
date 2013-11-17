@@ -97,7 +97,7 @@ Venue:
 </tr>
 <tr class="even">
 <td align="left"><h1>4.</h1></td>
-<td align="left"><h1>SPM results data model</h1>
+<td align="left"><h1></h1>
 <h2>a) Provenance store (SG)</h2>
 <p>Use the provenance store to share PROV-N files: <a href="https://provenance.ecs.soton.ac.uk/store/">https://provenance.ecs.soton.ac.uk/store/</a> </p>
 <h2>b) Degrees of freedom (TN)</h2>
